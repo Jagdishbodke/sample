@@ -8,4 +8,5 @@ void main()
 
 	c=a-b;
 	printf("\nSubstraction : %d",c);
+
 }
